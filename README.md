@@ -30,6 +30,3 @@ Alzy is an advanced Android mobile application designed to assist patients and h
 - Role-based navigation with custom dashboards for patients and doctors
 - Integration of AI model for MRI inference results displayed within the app
 - Firebase backend integration for secure and real-time data sync
-
-## Setup and Installation
-1. Clone the repository:
