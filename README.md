@@ -71,6 +71,14 @@ WORKKING FLOWCHART
 
 <img width="1500" height="1125" alt="flow" src="https://github.com/user-attachments/assets/85b110a0-1e26-489b-b007-132b5fa7b624" />
 
+Colab
+
+<img width="700" height="326" alt="Picture1" src="https://github.com/user-attachments/assets/b7d24536-11cb-4e29-b9a9-d20a239abde3" />
+
+<img width="700" height="433" alt="Picture2" src="https://github.com/user-attachments/assets/910bacbd-fa20-4010-bea6-8593c20e2025" />
+
+
+
 
 
 
