@@ -32,21 +32,37 @@ Alzy is an advanced Android mobile application designed to assist patients and h
 - Firebase backend integration for secure and real-time data sync
 - LOGIN PAGE
 <img width="391" height="789" alt="1" src="https://github.com/user-attachments/assets/bb57afa5-d2c8-48a0-af95-914bf30653ae" />
+
 PATIENTS DASHBOARD
-<img width="463" height="810" alt="2" src="https://github.com/user-attachments/assets/220cb5b1-4ade-4452-8ded-32c0d0d2d41a" />\
+
+<img width="463" height="810" alt="2" src="https://github.com/user-attachments/assets/220cb5b1-4ade-4452-8ded-32c0d0d2d41a" />
+
 DOCTORS DASHBOARD
+
 <img width="440" height="795" alt="3" src="https://github.com/user-attachments/assets/1d9c47b4-7af1-4934-a5aa-6c11445ca76c" />
+
 PREDICTION MADE BY ALZY!
+
 <img width="362" height="806" alt="4" src="https://github.com/user-attachments/assets/03cdae5a-8aa3-4881-beae-a50a52fd2574" />
+
 <img width="417" height="926" alt="5" src="https://github.com/user-attachments/assets/9397f7a5-d737-4f0c-b47d-b23aea89f225" />
+
 <img width="414" height="851" alt="6" src="https://github.com/user-attachments/assets/dadf34f2-5788-4ee1-8549-3f0a40ac8cd3" />
+
 GEMINI API CALL
+
 <img width="361" height="803" alt="7" src="https://github.com/user-attachments/assets/b2d5c24c-b894-4dd9-abc3-78e7d8ce7cb8" />
+
 BOOK APPOINTMENT PAGE
+
 <img width="486" height="816" alt="8" src="https://github.com/user-attachments/assets/f814ccaf-8105-4ce3-96be-50970cdf430e" />
+
 ACCEPTING/DECLINING APPOINTMENTS ( BY DOCTOR )
+
 <img width="405" height="849" alt="9" src="https://github.com/user-attachments/assets/2151080e-fad8-4d7c-9b89-dab8375c6881" />
+
 WORKKING FLOWCHART
+
 <img width="1500" height="1125" alt="flow" src="https://github.com/user-attachments/assets/85b110a0-1e26-489b-b007-132b5fa7b624" />
 
 
