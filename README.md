@@ -43,10 +43,13 @@ DOCTORS DASHBOARD
 
 PREDICTION MADE BY ALZY!
 
+1. Empty screen  Model is loaded successfully
 <img width="362" height="806" alt="4" src="https://github.com/user-attachments/assets/03cdae5a-8aa3-4881-beae-a50a52fd2574" />
 
+2.Image uploaded by user
 <img width="417" height="926" alt="5" src="https://github.com/user-attachments/assets/9397f7a5-d737-4f0c-b47d-b23aea89f225" />
 
+3.Model Prediction
 <img width="414" height="851" alt="6" src="https://github.com/user-attachments/assets/dadf34f2-5788-4ee1-8549-3f0a40ac8cd3" />
 
 GEMINI API CALL
